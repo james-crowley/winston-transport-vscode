@@ -1,4 +1,4 @@
-# winston-transport-vscode
+# winston-transport-vscodea
 
 A [Winston](https://github.com/winstonjs/winston) logger transport for VS Code extension development.
 
